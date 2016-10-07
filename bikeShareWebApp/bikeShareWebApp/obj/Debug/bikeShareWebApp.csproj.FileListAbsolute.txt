@@ -37,3 +37,81 @@ C:\Users\User\Desktop\Fun Projects\bikeShareWebApp\bikeShareWebApp\bin\EntityFra
 C:\Users\User\Desktop\Fun Projects\bikeShareWebApp\bikeShareWebApp\bin\EntityFramework.SqlServer.xml
 C:\Users\User\Desktop\Fun Projects\bikeShareWebApp\bikeShareWebApp\bin\Newtonsoft.Json.dll
 C:\Users\User\Desktop\Fun Projects\bikeShareWebApp\bikeShareWebApp\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\ApplicationInsights.config
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\bikeShareWebApp.dll.config
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\bikeShareWebApp.dll
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\bikeShareWebApp.pdb
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\EntityFramework.dll
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\EntityFramework.xml
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\obj\Debug\bikeShareWebApp.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\obj\Debug\bikeShareWebApp.dll
+C:\Users\User\Desktop\Fun Projects\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\obj\Debug\bikeShareWebApp.pdb
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\ApplicationInsights.config
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\roslyn\csc.exe
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\roslyn\System.Collections.Immutable.dll
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\roslyn\System.Reflection.Metadata.dll
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\roslyn\vbc.exe
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\roslyn\VBCSCompiler.exe
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\roslyn\VBCSCompiler.exe.config
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\bikeShareWebApp.dll.config
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\bikeShareWebApp.dll
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\bikeShareWebApp.pdb
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\EntityFramework.dll
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\EntityFramework.SqlServer.dll
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\Microsoft.AI.DependencyCollector.dll
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\Microsoft.AI.Web.dll
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\Microsoft.AI.WindowsServer.dll
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\Microsoft.ApplicationInsights.dll
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\Newtonsoft.Json.dll
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\EntityFramework.xml
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\EntityFramework.SqlServer.xml
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\Microsoft.AI.DependencyCollector.xml
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\Microsoft.AI.Web.xml
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\Microsoft.AI.WindowsServer.xml
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\Microsoft.ApplicationInsights.xml
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\bin\Newtonsoft.Json.xml
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\obj\Debug\bikeShareWebApp.csprojResolveAssemblyReference.cache
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\obj\Debug\bikeShareWebApp.dll
+E:\Programs\hackathonBikeShare\bikeShareWebApp\bikeShareWebApp\obj\Debug\bikeShareWebApp.pdb

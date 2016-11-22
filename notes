@@ -1,2 +1,12 @@
 endpoint documentation
 -https://github.com/NABSA/gbfs
+
+currently, an error occurs when the app is used. this is due to bike share hibernating their bikes for the winter.
+-a fix: display a message when no data is returned in the JSON string
+-this way the app isn't broken on launch
+
+check with https://greatrides.bcycle.com/ periodically for update on bike status
+
+potential features:
+-implement google map
+-implement wunderground weather status for fargo

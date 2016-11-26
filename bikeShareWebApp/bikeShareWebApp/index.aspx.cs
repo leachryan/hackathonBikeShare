@@ -35,20 +35,6 @@ namespace bikeShareWebApp
             string stationInformationJSON;
             var stationDataResponse = (HttpWebResponse)stationData.GetResponse();
             
-            //if/else conditional to test if stationDataResponse contains any station results, create flag for bottom section
-            //if there isn't any data, have page display a single message saying "bike share is hibernating for the winter"
-            //may have to use jquery for this, or check c# ways
-            //if there is data, do the following
-            
-            //start if here
-            //example:
-            //if(stationDataResponse = "**put no data api response here**")
-            //{
-            //    jquery or c# statement for hibernation message
-            //}
-            //else
-            //{ all the workable code goes in else statement
-            //};
             using (var sr = new StreamReader(stationDataResponse.GetResponseStream()))
             {
                 //this is the big ass string
@@ -134,10 +120,6 @@ namespace bikeShareWebApp
             var bikeData = WebRequest.Create("https://gbfs.bcycle.com/bcycle_greatrides/station_status.json");
             string bikeInformationJSON;
             var bikeDataResponse = (HttpWebResponse)bikeData.GetResponse();
-            
-            //if above fails, this will also fail
-            //if the flag above fails, don't run the code
-            //place in if-else to stop code from running if flag is tripped
             
             using (var bk = new StreamReader(bikeDataResponse.GetResponseStream()))
             {
